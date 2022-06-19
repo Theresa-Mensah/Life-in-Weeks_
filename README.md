@@ -2,7 +2,6 @@
 
 age = input("What is your current age? ")
 
-#Where lifedury,lifedurw, lifedurm, lifedurd is life duration in years, months and days
 
 lifedury = int(90) - int(age)
 
